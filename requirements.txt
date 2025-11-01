@@ -1,1 +1,4 @@
+# Required Python libraries for Space Bot project
+requests
+python-dotenv
 
